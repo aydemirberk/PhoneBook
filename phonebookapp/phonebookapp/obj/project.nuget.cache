@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXKCdXqyAJWWTTljpG0JrN1rxE7D9JhVMtzkGwcqpLBPW3aFqbxiLewGrDtWWMnpWWeDKZNkK92Z0jX8PqielQ==",
+  "success": true,
+  "projectFilePath": "/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/phonebookapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/berkaydemir/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/berkaydemir/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512",
+    "/Users/berkaydemir/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

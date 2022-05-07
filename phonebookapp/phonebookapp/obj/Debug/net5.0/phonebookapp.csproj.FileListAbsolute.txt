@@ -1,0 +1,16 @@
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/phonebookapp.csproj.AssemblyReference.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/phonebookapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/phonebookapp.AssemblyInfoInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/phonebookapp.AssemblyInfo.cs
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/phonebookapp.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/bin/Debug/net5.0/phonebookapp
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/bin/Debug/net5.0/phonebookapp.deps.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/bin/Debug/net5.0/phonebookapp.runtimeconfig.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/bin/Debug/net5.0/phonebookapp.runtimeconfig.dev.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/bin/Debug/net5.0/phonebookapp.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/bin/Debug/net5.0/phonebookapp.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/phonebookapp.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/refint/phonebookapp.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/phonebookapp.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/phonebookapp.genruntimeconfig.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/phonebookapp/phonebookapp/obj/Debug/net5.0/ref/phonebookapp.dll
